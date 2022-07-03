@@ -11,7 +11,5 @@ Key boundary datasets of MCGM region.
 |6|Mumbai prabhags 2012 BMC elections | Vaidehi Tandel |
 |7|Mumbai prabhags 2017 BMC elections | MCGM |
 |8|Mumbai prabhags 2022 BMC elections | sanjana |
-
-https://github.com/datameet/maps
-
-https://pub.uni-bielefeld.de/record/2674065
+|9|Mumbai parliamentary and assembly constituencies, 2014| [Susewind R, 2014](https://pub.uni-bielefeld.de/record/2674065) |
+|10|Mumbai parliamentary and assembly constituencies, 2019| [Datameet, 2019](https://github.com/datameet/maps) |
