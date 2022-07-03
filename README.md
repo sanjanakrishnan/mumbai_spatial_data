@@ -1,5 +1,5 @@
 # mumbai_boundaries
-Key boundary datasets of MCGM region. 
+Key boundary datasets of MCGM region in geojson format. 
 
 | # | Dataset | Source |
 |---|-----|-----|
